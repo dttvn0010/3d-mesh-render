@@ -27,7 +27,6 @@ struct  Point2i
     int y;
 };
 
-
 struct BarycentricWeight
 {
     float alpha;
